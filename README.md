@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L01zsec
 - 👀 I’m interested in none of your concern 
-- 🌱 I’m currently learning none of your concerns
-- 💞️ I’m looking to collaborate on none of your concerns
+- 🌱 I’m currently learning none of your concern
+- 💞️ I’m looking to collaborate on none of your concern
 - 📫 How to reach me: don't. 
 
 <!---
